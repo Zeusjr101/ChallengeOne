@@ -2,12 +2,11 @@
 
 ## A Fully functional website.
 
-This is a project that we had to review and make some changes to that tag /elements that would work better then just divs on the pages
+For this project I reviewed the links and made changes to the elements to identify each section for the HTML.
 and make sure that all the links work.
 
-- fixed and veifed that all links work
-- changed the tag/ elements in the HTML code
-- Review the Css code and made some minor changes
+- I verified that all the links work and fixed any that didn't work.
+- I reviewed the Css code and made some minor changes.
 
 * I added a photo to show how the website would look
 
